@@ -9,6 +9,20 @@ In this project, the aim is to analyze and forecast sales from a large grocery r
 |-----------------|-----------------|-----------------|
 |[Jupyter Notebook](https://github.com/odee0405/Grocery-store-forecast/blob/main/Notebooks/Time%20Series%20Project101.ipynb)|[Article](https://www.linkedin.com/pulse/time-series-regression-forecasting-sales-analysis-kwame-asenso-okyere) | [Dashboard](https://app.powerbi.com/groups/me/reports/6fd097ad-85c3-4c34-9c22-09761491d6a7?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkSharehttps://app.powerbi.com/groups/me/reports/6fd097ad-85c3-4c34-9c22-09761491d6a7?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |
 
+## Data Used
+#### [Train Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Notebooks/database_Codes_LP3.ipynb)
+- The training data comprises various components such as dates, store information, product details, promotion data, and sales figures.
+#### [Test Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Datasets/test.xlsx)
+- The test data set shares the same features as the train data set, except for the "sales" feature, which is omitted.
+#### [Transactions Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Datasets/transactions.csv)
+- The transactions data set contains information on transactions for each day.
+#### [Stores Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Datasets/stores.csv)
+- This data set contains information on the stores where sales are happening. It has features such as cluster, city and state.
+#### [Oil Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Datasets/oil.csv)
+- This data set contains dates and their corresponding oil prices under a feature name 'dcoilwtico'.
+#### [Holiday Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Datasets/holiday.csv)
+Holiday events with metadata.
+
 ### Technologies Used 
 
 #### Analysis and Visualization
