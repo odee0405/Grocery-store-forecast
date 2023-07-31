@@ -7,7 +7,7 @@ In this project, the aim is to analyze and forecast sales from a large grocery r
 
 | Project  | Project Article | BI Dashboard|
 |-----------------|-----------------|-----------------|
-|[Jupyter Notebook](https://github.com/odee0405/Grocery-store-forecast/blob/main/Time%20Series%20Project101.ipynb)|[Article](https://www.linkedin.com/pulse/time-series-regression-forecasting-sales-analysis-kwame-asenso-okyere) | [Dashboard](https://app.powerbi.com/groups/me/reports/6fd097ad-85c3-4c34-9c22-09761491d6a7?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkSharehttps://app.powerbi.com/groups/me/reports/6fd097ad-85c3-4c34-9c22-09761491d6a7?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |
+|[Jupyter Notebook]([https://github.com/odee0405/Grocery-store-forecast/blob/main/Time%20Series%20Project101.ipynb](https://github.com/odee0405/Grocery-store-forecast/blob/main/Notebooks/Time%20Series%20Project101.ipynb))|[Article](https://www.linkedin.com/pulse/time-series-regression-forecasting-sales-analysis-kwame-asenso-okyere) | [Dashboard](https://app.powerbi.com/groups/me/reports/6fd097ad-85c3-4c34-9c22-09761491d6a7?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkSharehttps://app.powerbi.com/groups/me/reports/6fd097ad-85c3-4c34-9c22-09761491d6a7?ctid=4487b52f-f118-4830-b49d-3c298cb71075&pbi_source=linkShare) |
 
 ### Technologies Used 
 
