@@ -11,7 +11,7 @@ In this project, the aim is to analyze and forecast sales from a large grocery r
 
 ## Data Used
 #### [Train Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Notebooks/database_Codes_LP3.ipynb)
-- The training data comprises various components such as dates, store information, product details, promotion data, and sales figures.
+- Large data retrieved from a SQL database. The training data comprises various components such as dates, store information, product details, promotion data, and sales figures.
 #### [Test Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Datasets/test.xlsx)
 - The test data set shares the same features as the train data set, except for the "sales" feature, which is omitted.
 #### [Transactions Dataset](https://github.com/odee0405/Grocery-store-forecast/blob/main/Datasets/transactions.csv)
